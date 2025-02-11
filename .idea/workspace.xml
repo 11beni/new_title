@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1f41928b-a387-47f3-989f-a88e94c4cc2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,9 @@
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="2scWKku2dSDG0UvH0pAS962ABDO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -155,6 +159,7 @@
       <workItem from="1739012287466" duration="122000" />
       <workItem from="1739171925506" duration="10087000" />
       <workItem from="1739246285933" duration="2603000" />
+      <workItem from="1739266713632" duration="2654000" />
     </task>
     <servers />
   </component>
